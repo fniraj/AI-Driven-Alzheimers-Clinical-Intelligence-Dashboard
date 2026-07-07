@@ -153,7 +153,11 @@ The dashboards are not intended to provide medical advice or direct patient care
 - Clinical trial matching engine
 - Predictive healthcare analytics
 
+© 2026 Niraj. All rights reserved.
 
+The dashboards, documentation, and project materials in this repository are shared for portfolio and educational purposes only.
+
+The complete implementation and source code are not publicly available. Please do not copy, redistribute, or reuse this work without prior permission.
 
 #  Contact
 
