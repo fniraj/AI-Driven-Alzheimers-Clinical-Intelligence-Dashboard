@@ -155,7 +155,7 @@ The dashboards are not intended to provide medical advice or direct patient care
 
 © 2026 Niraj. All rights reserved.
 
-The dashboards, documentation, and project materials in this repository are shared for portfolio and educational purposes only.
+The dashboards, documentation, and project materials in this repository are shared for portfolio and educational purposes only. Source code is intentionally not included in this public repository. This repository is provided as a portfolio demonstration. Screenshots and project documentation are shared for educational and professional purposes.
 
 The complete implementation and source code are not publicly available. Please do not copy, redistribute, or reuse this work without prior permission.
 
