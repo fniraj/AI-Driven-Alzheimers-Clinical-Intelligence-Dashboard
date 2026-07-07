@@ -1,0 +1,384 @@
+Sponsor,Sponsor_Class,Total_Trials,Completed,Failed,Active,Mean_Success_Score,Completion_Efficiency_Percent,Failure_Percent
+Novo Nordisk A/S,INDUSTRY,3,3,0,0,87.66666666666667,100.0,0.0
+Forest Laboratories,INDUSTRY,5,5,0,0,78.0,100.0,0.0
+"Johnson & Johnson Pharmaceutical Research & Development, L.L.C.",INDUSTRY,15,15,0,0,77.2,100.0,0.0
+Amoneta Diagnostics SAS,INDUSTRY,4,4,0,0,70.75,100.0,0.0
+Optina Diagnostics Inc.,INDUSTRY,3,3,0,0,69.33333333333333,100.0,0.0
+"Janssen Korea, Ltd., Korea",INDUSTRY,3,3,0,0,68.66666666666667,100.0,0.0
+EIP Pharma Inc,INDUSTRY,3,3,0,0,68.0,100.0,0.0
+Avanir Pharmaceuticals,INDUSTRY,3,3,0,0,65.33333333333333,100.0,0.0
+"FUJIFILM Toyama Chemical Co., Ltd.",INDUSTRY,3,3,0,0,63.0,100.0,0.0
+"Neuronetrix, Inc.",INDUSTRY,3,3,0,0,61.333333333333336,100.0,0.0
+Anavex Life Sciences Corp.,INDUSTRY,4,4,0,0,60.75,100.0,0.0
+Voyager Pharmaceutical Corporation,INDUSTRY,3,3,0,0,57.333333333333336,100.0,0.0
+Johns Hopkins Bloomberg School of Public Health,OTHER,3,3,0,0,56.666666666666664,100.0,0.0
+Universidad de Granada,OTHER,3,3,0,0,55.333333333333336,100.0,0.0
+Axon Neuroscience SE,INDUSTRY,3,3,0,0,55.0,100.0,0.0
+"Photozig, Inc.",INDUSTRY,6,6,0,0,54.666666666666664,100.0,0.0
+Exonhit,INDUSTRY,3,3,0,0,54.0,100.0,0.0
+Nxera Pharma UK Limited,INDUSTRY,4,4,0,0,52.25,100.0,0.0
+Tetra Discovery Partners,INDUSTRY,4,4,0,0,52.0,100.0,0.0
+University of Eastern Finland,OTHER,3,3,0,0,51.333333333333336,100.0,0.0
+Brown University,OTHER,4,4,0,0,51.25,100.0,0.0
+MODAG GmbH,INDUSTRY,3,3,0,0,49.666666666666664,100.0,0.0
+Albert Einstein College of Medicine,OTHER,3,3,0,0,49.333333333333336,100.0,0.0
+Icure Pharmaceutical Inc.,INDUSTRY,3,3,0,0,49.333333333333336,100.0,0.0
+Penn State University,OTHER,5,5,0,0,47.4,100.0,0.0
+Invicro,OTHER,4,4,0,0,45.75,100.0,0.0
+"Translational Research Center for Medical Innovation, Kobe, Hyogo, Japan",OTHER,3,3,0,0,45.666666666666664,100.0,0.0
+"MapHabit, Inc.",INDUSTRY,3,3,0,0,45.333333333333336,100.0,0.0
+US Department of Veterans Affairs,FED,15,15,0,0,43.86666666666667,100.0,0.0
+Posit Science Corporation,INDUSTRY,3,3,0,0,43.666666666666664,100.0,0.0
+University of Aarhus,OTHER,3,3,0,0,43.333333333333336,100.0,0.0
+Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia,OTHER,3,3,0,0,42.0,100.0,0.0
+Université de Sherbrooke,OTHER,6,6,0,0,42.0,100.0,0.0
+"Corium, Inc.",INDUSTRY,4,4,0,0,41.0,100.0,0.0
+Norwegian Centre for Ageing and Health,OTHER,3,3,0,0,40.666666666666664,100.0,0.0
+"Rsocialform - Geriatria, Lda",OTHER,3,3,0,0,40.666666666666664,100.0,0.0
+"Kyowa Kirin Co., Ltd.",INDUSTRY,3,3,0,0,39.333333333333336,100.0,0.0
+University of Kansas,OTHER,3,3,0,0,38.333333333333336,100.0,0.0
+Medical University of South Carolina,OTHER,4,4,0,0,37.75,100.0,0.0
+AlzeCure Pharma,INDUSTRY,3,3,0,0,37.666666666666664,100.0,0.0
+"University of California, Berkeley",OTHER,6,6,0,0,37.333333333333336,100.0,0.0
+Queen's University,OTHER,5,5,0,0,35.4,100.0,0.0
+Elizabeth K Rhodus,OTHER,3,3,0,0,35.333333333333336,100.0,0.0
+Seoul National University Bundang Hospital,OTHER,3,3,0,0,35.333333333333336,100.0,0.0
+"Jeff Burns, MD",OTHER,4,4,0,0,35.25,100.0,0.0
+The University of Texas at Arlington,OTHER,3,3,0,0,32.666666666666664,100.0,0.0
+Centre Hospitalier Princesse Grace,OTHER,3,3,0,0,32.0,100.0,0.0
+University of Alberta,OTHER,4,4,0,0,32.0,100.0,0.0
+Medipost Co Ltd.,INDUSTRY,3,3,0,0,31.666666666666668,100.0,0.0
+"University Hospital, Clermont-Ferrand",OTHER,3,3,0,0,29.333333333333332,100.0,0.0
+South China Center For Innovative Pharmaceuticals,OTHER,3,3,0,0,27.666666666666668,100.0,0.0
+Wyeth is now a wholly owned subsidiary of Pfizer,INDUSTRY,32,30,2,0,41.125,93.8,6.2
+Novartis,INDUSTRY,15,14,1,0,63.0,93.3,6.7
+"Genentech, Inc.",INDUSTRY,12,11,1,0,50.916666666666664,91.7,8.3
+Avid Radiopharmaceuticals,INDUSTRY,42,38,4,0,63.73809523809524,90.5,9.5
+GE Healthcare,INDUSTRY,9,8,1,0,73.33333333333333,88.9,11.1
+Alzheimer's Disease Cooperative Study (ADCS),OTHER,9,8,0,1,59.22222222222222,88.9,0.0
+Cognition Therapeutics,INDUSTRY,9,8,0,1,52.0,88.9,0.0
+National Institute of Neurological Disorders and Stroke (NINDS),NIH,9,8,1,0,46.77777777777778,88.9,11.1
+Molecular NeuroImaging,OTHER,9,8,1,0,42.77777777777778,88.9,11.1
+Icahn School of Medicine at Mount Sinai,OTHER,16,14,0,2,32.4375,87.5,0.0
+XuanwuH 2,OTHER,7,6,0,0,58.142857142857146,85.7,0.0
+The Cleveland Clinic,OTHER,7,6,0,1,44.285714285714285,85.7,0.0
+University of Minnesota,OTHER,14,12,1,1,39.57142857142857,85.7,7.1
+University of Florida,OTHER,7,6,0,1,39.285714285714285,85.7,0.0
+Janssen Pharmaceutical K.K.,INDUSTRY,6,5,1,0,59.833333333333336,83.3,16.7
+VA Office of Research and Development,FED,18,15,0,2,51.27777777777778,83.3,0.0
+"University of California, San Diego",OTHER,6,5,0,1,45.666666666666664,83.3,0.0
+Radboud University Medical Center,OTHER,6,5,0,1,43.833333333333336,83.3,0.0
+CHU de Reims,OTHER,6,5,0,0,39.666666666666664,83.3,0.0
+Thomas Jefferson University,OTHER,6,5,0,1,39.333333333333336,83.3,0.0
+Florida State University,OTHER,6,5,0,1,37.166666666666664,83.3,0.0
+Case Western Reserve University,OTHER,6,5,0,1,36.333333333333336,83.3,0.0
+University of Kansas Medical Center,OTHER,22,18,0,4,45.18181818181818,81.8,0.0
+Lantheus Biosciences Ltd.,INDUSTRY,5,4,0,1,73.2,80.0,0.0
+Alzheon Inc.,INDUSTRY,5,4,1,0,69.8,80.0,20.0
+"Axsome Therapeutics, Inc.",INDUSTRY,5,4,1,0,68.6,80.0,20.0
+"Otsuka Pharmaceutical Development & Commercialization, Inc.",INDUSTRY,15,12,3,0,65.4,80.0,20.0
+National Institute of Mental Health (NIMH),NIH,15,12,1,2,51.53333333333333,80.0,6.7
+Beth Israel Deaconess Medical Center,OTHER,5,4,0,1,46.8,80.0,0.0
+University of Texas Southwestern Medical Center,OTHER,5,4,0,1,46.8,80.0,0.0
+CERESPIR,INDUSTRY,5,4,1,0,44.0,80.0,20.0
+University of Pittsburgh,OTHER,15,12,0,3,42.733333333333334,80.0,0.0
+"University of Massachusetts, Worcester",OTHER,5,4,0,1,39.6,80.0,0.0
+"Janssen Research & Development, LLC",INDUSTRY,19,15,4,0,53.78947368421053,78.9,21.1
+Eisai Inc.,INDUSTRY,23,18,2,3,59.47826086956522,78.3,8.7
+Sanofi,INDUSTRY,9,7,2,0,58.22222222222222,77.8,22.2
+"University Hospital, Bordeaux",OTHER,18,14,0,3,53.611111111111114,77.8,0.0
+New York State Psychiatric Institute,OTHER,9,7,1,1,48.333333333333336,77.8,11.1
+Northwell Health,OTHER,9,7,0,2,43.888888888888886,77.8,0.0
+AstraZeneca,INDUSTRY,26,20,6,0,49.76923076923077,76.9,23.1
+Sinotau Pharmaceutical Group,INDUSTRY,4,3,0,1,69.5,75.0,0.0
+Eisai Korea Inc.,INDUSTRY,8,6,1,1,64.75,75.0,12.5
+"Eisai Co., Ltd.",INDUSTRY,8,6,1,1,58.125,75.0,12.5
+LeonaBio,INDUSTRY,4,3,1,0,56.75,75.0,25.0
+Douglas Mental Health University Institute,OTHER,4,3,0,1,55.0,75.0,0.0
+"OPKO Health, Inc.",INDUSTRY,4,3,1,0,54.75,75.0,25.0
+Rush University Medical Center,OTHER,4,3,0,1,53.75,75.0,0.0
+Seattle Institute for Biomedical and Clinical Research,OTHER,4,3,0,0,51.75,75.0,0.0
+Boehringer Ingelheim,INDUSTRY,8,6,2,0,51.0,75.0,25.0
+Alector Inc.,INDUSTRY,4,3,1,0,48.25,75.0,25.0
+"Dongzhimen Hospital, Beijing",OTHER,4,3,0,0,44.75,75.0,0.0
+National Human Genome Research Institute (NHGRI),NIH,4,3,1,0,44.25,75.0,25.0
+University of Iowa,OTHER,4,3,0,1,44.0,75.0,0.0
+University of Michigan,OTHER,12,9,0,3,42.666666666666664,75.0,0.0
+"Neurotrope Bioscience, Inc.",INDUSTRY,4,3,1,0,41.25,75.0,25.0
+Federal University of Minas Gerais,OTHER,4,3,0,0,39.0,75.0,0.0
+Neuronix Ltd,INDUSTRY,4,3,1,0,35.75,75.0,25.0
+"University Hospital, Limoges",OTHER,4,3,1,0,34.75,75.0,25.0
+Pfizer,INDUSTRY,62,46,16,0,47.306451612903224,74.2,25.8
+Emory University,OTHER,26,19,1,6,43.84615384615385,73.1,3.8
+University of Washington,OTHER,26,19,1,2,41.61538461538461,73.1,3.8
+Brigham and Women's Hospital,OTHER,11,8,0,3,43.0,72.7,0.0
+"University Hospital, Tours",OTHER,11,8,0,3,39.09090909090909,72.7,0.0
+Affiris AG,INDUSTRY,11,8,3,0,36.54545454545455,72.7,27.3
+"University of Wisconsin, Madison",OTHER,25,18,2,5,44.56,72.0,8.0
+Novartis Pharmaceuticals,INDUSTRY,21,15,4,2,63.714285714285715,71.4,19.0
+"AbbVie (prior sponsor, Abbott)",INDUSTRY,7,5,2,0,57.57142857142857,71.4,28.6
+University of Bern,OTHER,7,5,1,1,36.714285714285715,71.4,14.3
+National Institute on Aging (NIA),NIH,41,29,2,1,49.829268292682926,70.7,4.9
+TauRx Therapeutics Ltd,INDUSTRY,10,7,2,0,54.5,70.0,20.0
+NYU Langone Health,OTHER,23,16,2,5,43.69565217391305,69.6,8.7
+GlaxoSmithKline,INDUSTRY,31,21,7,3,51.16129032258065,67.7,22.6
+Altoida,INDUSTRY,3,2,0,1,77.33333333333333,66.7,0.0
+Axovant Sciences Ltd.,INDUSTRY,3,2,1,0,65.33333333333333,66.7,33.3
+"T3D Therapeutics, Inc.",INDUSTRY,3,2,0,1,64.0,66.7,0.0
+Merz Pharmaceuticals GmbH,INDUSTRY,3,2,1,0,62.333333333333336,66.7,33.3
+AB Science,INDUSTRY,3,2,0,1,62.0,66.7,0.0
+Eisai Limited,INDUSTRY,3,2,0,1,61.333333333333336,66.7,0.0
+Neurim Pharmaceuticals Ltd.,INDUSTRY,3,2,0,1,60.666666666666664,66.7,0.0
+Actinogen Medical,INDUSTRY,3,2,0,1,59.333333333333336,66.7,0.0
+GemVax & Kael,INDUSTRY,3,2,1,0,57.333333333333336,66.7,33.3
+"Barcelonabeta Brain Research Center, Pasqual Maragall Foundation",OTHER,15,10,0,5,54.86666666666667,66.7,0.0
+"University of California, Irvine",OTHER,3,2,0,1,53.666666666666664,66.7,0.0
+Vivoryon Therapeutics N.V.,INDUSTRY,3,2,1,0,53.333333333333336,66.7,33.3
+University of Edinburgh,OTHER,3,2,1,0,52.666666666666664,66.7,33.3
+Patrick Lao,OTHER,3,2,0,1,51.666666666666664,66.7,0.0
+Ipsen,INDUSTRY,3,2,1,0,51.333333333333336,66.7,33.3
+Karolinska Institutet,OTHER,9,6,0,3,49.0,66.7,0.0
+"Orasi Medical, Inc.",INDUSTRY,3,2,0,0,49.0,66.7,0.0
+Acumen Pharmaceuticals,INDUSTRY,3,2,0,1,48.666666666666664,66.7,0.0
+Chung Shan Medical University,OTHER,3,2,0,1,47.666666666666664,66.7,0.0
+Brasilia University Hospital,OTHER,3,2,0,0,46.666666666666664,66.7,0.0
+"University Hospital, Toulouse",OTHER,18,12,1,4,46.611111111111114,66.7,5.6
+Hopeful Aging,INDUSTRY,6,4,0,2,46.0,66.7,0.0
+Florida Atlantic University,OTHER,3,2,0,1,44.333333333333336,66.7,0.0
+Georgetown University,OTHER,3,2,0,1,44.0,66.7,0.0
+"Chase Pharmaceuticals Corporation, an affiliate of Allergan plc",INDUSTRY,3,2,1,0,42.0,66.7,33.3
+University Hospital of North Norway,OTHER,3,2,0,1,42.0,66.7,0.0
+The University of Texas Health Science Center at San Antonio,OTHER,9,6,0,3,40.44444444444444,66.7,0.0
+InSightec,INDUSTRY,3,2,0,1,40.333333333333336,66.7,0.0
+University of Chicago,OTHER,9,6,0,3,40.0,66.7,0.0
+"University of North Carolina, Chapel Hill",OTHER,9,6,0,3,39.888888888888886,66.7,0.0
+Universidad Católica San Antonio de Murcia,OTHER,3,2,0,1,38.666666666666664,66.7,0.0
+Yeditepe University,OTHER,3,2,0,1,38.333333333333336,66.7,0.0
+Medical University of Graz,OTHER,3,2,0,0,38.0,66.7,0.0
+Centre Hospitalier Universitaire de Nīmes,OTHER,3,2,1,0,37.666666666666664,66.7,33.3
+Baylor College of Medicine,OTHER,6,4,0,2,37.166666666666664,66.7,0.0
+Gulhane Training and Research Hospital,OTHER_GOV,3,2,0,0,36.333333333333336,66.7,0.0
+The Hong Kong Polytechnic University,OTHER,3,2,0,0,36.333333333333336,66.7,0.0
+Universita di Verona,OTHER,3,2,1,0,35.333333333333336,66.7,33.3
+Baylor University,OTHER,3,2,0,1,34.333333333333336,66.7,0.0
+"Shanghai Hengrui Pharmaceutical Co., Ltd.",INDUSTRY,3,2,1,0,33.333333333333336,66.7,33.3
+Daniela Moga,OTHER,3,2,1,0,32.0,66.7,33.3
+Universidad de Burgos,OTHER,3,2,0,1,31.666666666666668,66.7,0.0
+Ohio State University,OTHER,6,4,1,1,30.5,66.7,16.7
+University of Arkansas,OTHER,3,2,1,0,25.333333333333332,66.7,33.3
+Merck Sharp & Dohme LLC,INDUSTRY,31,20,10,1,45.54838709677419,64.5,32.3
+Cerecin,INDUSTRY,14,9,4,1,42.214285714285715,64.3,28.6
+Seoul National University Hospital,OTHER,11,7,1,1,46.90909090909091,63.6,9.1
+"University of California, Los Angeles",OTHER,22,14,2,5,46.54545454545455,63.6,9.1
+AbbVie,INDUSTRY,11,7,3,1,44.72727272727273,63.6,27.3
+"University of California, San Francisco",OTHER,19,12,1,5,42.421052631578945,63.2,5.3
+CanSino Biologics Inc.,INDUSTRY,8,5,2,0,56.375,62.5,25.0
+"Charite University, Berlin, Germany",OTHER,8,5,1,0,46.5,62.5,12.5
+Duke University,OTHER,18,11,2,5,48.77777777777778,61.1,11.1
+Assistance Publique - Hôpitaux de Paris,OTHER,28,17,1,9,47.5,60.7,3.6
+Annovis Bio Inc.,INDUSTRY,5,3,1,1,62.4,60.0,20.0
+"Janssen Pharmaceutica N.V., Belgium",INDUSTRY,5,3,1,1,59.4,60.0,20.0
+Eli Lilly and Company,INDUSTRY,55,33,6,16,56.8,60.0,10.9
+H. Lundbeck A/S,INDUSTRY,15,9,6,0,56.06666666666667,60.0,40.0
+Bristol-Myers Squibb,INDUSTRY,20,12,1,7,54.6,60.0,5.0
+IRCCS Centro San Giovanni di Dio Fatebenefratelli,OTHER,5,3,0,1,50.4,60.0,0.0
+University of Pennsylvania,OTHER,20,12,0,8,47.3,60.0,0.0
+Helse Stavanger HF,OTHER_GOV,5,3,0,2,47.0,60.0,0.0
+Technical University of Munich,OTHER,5,3,0,2,41.8,60.0,0.0
+Kaiser Permanente,OTHER,5,3,0,2,41.2,60.0,0.0
+University of Miami,OTHER,5,3,0,2,40.4,60.0,0.0
+Kırıkkale University,OTHER,5,3,0,0,30.4,60.0,0.0
+Oregon Health and Science University,OTHER,17,10,2,2,31.41176470588235,58.8,11.8
+University of Southern California,OTHER,24,14,1,9,53.625,58.3,4.2
+Wake Forest University Health Sciences,OTHER,19,11,4,4,41.73684210526316,57.9,21.1
+"Medivation, Inc.",INDUSTRY,7,4,3,0,53.857142857142854,57.1,42.9
+"Institut National de la Santé Et de la Recherche Médicale, France",OTHER_GOV,7,4,0,3,46.714285714285715,57.1,0.0
+University of Rochester,OTHER,7,4,0,3,41.0,57.1,0.0
+Anhui Medical University,OTHER,7,4,1,1,40.42857142857143,57.1,14.3
+University of Alabama at Birmingham,OTHER,7,4,1,2,32.285714285714285,57.1,14.3
+Indiana University,OTHER,34,19,4,11,41.0,55.9,11.8
+"JANSSEN Alzheimer Immunotherapy Research & Development, LLC",INDUSTRY,9,5,4,0,54.55555555555556,55.6,44.4
+Columbia University,OTHER,18,10,1,7,45.05555555555556,55.6,5.6
+Institute for Neurodegenerative Disorders,OTHER,19,10,9,0,33.68421052631579,52.6,47.4
+Johns Hopkins University,OTHER,33,17,6,10,38.06060606060606,51.5,18.2
+"Cassava Sciences, Inc.",INDUSTRY,6,3,3,0,69.83333333333333,50.0,50.0
+ACADIA Pharmaceuticals Inc.,INDUSTRY,6,3,1,2,63.0,50.0,16.7
+"Rigshospitalet, Denmark",OTHER,4,2,0,1,61.0,50.0,0.0
+IRCCS Centro Neurolesi Bonino Pulejo,OTHER,4,2,0,2,58.75,50.0,0.0
+"Otsuka Pharmaceutical Co., Ltd.",INDUSTRY,4,2,1,1,56.75,50.0,25.0
+"Inmune Bio, Inc.",INDUSTRY,4,2,2,0,53.5,50.0,50.0
+"NeuroEM Therapeutics, Inc.",INDUSTRY,4,2,0,1,53.25,50.0,0.0
+Alnylam Pharmaceuticals,INDUSTRY,6,3,0,3,51.166666666666664,50.0,0.0
+University of South Florida,OTHER,6,3,1,2,49.0,50.0,16.7
+University of Bergen,OTHER,4,2,0,1,47.5,50.0,0.0
+Rennes University Hospital,OTHER,4,2,0,2,47.0,50.0,0.0
+HealthPartners Institute,OTHER,8,4,1,3,40.75,50.0,12.5
+McMaster University,OTHER,8,4,1,1,40.375,50.0,12.5
+Assiut University,OTHER,4,2,0,0,40.25,50.0,0.0
+Louisiana State University Health Sciences Center Shreveport,OTHER,4,2,1,1,37.25,50.0,25.0
+Shanghai 10th People's Hospital,OTHER,4,2,0,1,37.25,50.0,0.0
+University of Central Florida,OTHER,4,2,0,2,37.25,50.0,0.0
+"University Hospital, Angers",OTHER_GOV,8,4,0,0,37.125,50.0,0.0
+"TrueBinding, Inc.",INDUSTRY,4,2,1,0,36.5,50.0,25.0
+Cedars-Sinai Medical Center,OTHER,4,2,0,2,36.0,50.0,0.0
+Rhode Island Hospital,OTHER,4,2,0,0,34.75,50.0,0.0
+University of Texas at Austin,OTHER,6,3,0,3,34.0,50.0,0.0
+Mclean Hospital,OTHER,4,2,0,2,33.25,50.0,0.0
+"University Hospital, Lille",OTHER,12,6,3,3,33.25,50.0,25.0
+Yale University,OTHER,12,6,2,4,31.916666666666668,50.0,16.7
+"University of California, Davis",OTHER,8,4,0,4,31.875,50.0,0.0
+Istanbul University - Cerrahpasa,OTHER,4,2,0,1,29.5,50.0,0.0
+University of Valencia,OTHER,6,3,1,1,29.0,50.0,16.7
+University of Nebraska,OTHER,4,2,2,0,24.5,50.0,50.0
+"University of Colorado, Denver",OTHER,15,7,2,5,44.2,46.7,13.3
+Northwestern University,OTHER,15,7,1,6,34.6,46.7,6.7
+Mayo Clinic,OTHER,22,10,1,11,43.27272727272727,45.5,4.5
+Stanford University,OTHER,11,5,0,6,41.0,45.5,0.0
+Chang Gung Memorial Hospital,OTHER,31,14,1,6,43.096774193548384,45.2,3.2
+Centre Hospitalier Universitaire de Nice,OTHER,29,13,7,6,30.344827586206897,44.8,24.1
+I.R.C.C.S. Fondazione Santa Lucia,OTHER,7,3,0,4,56.142857142857146,42.9,0.0
+Maastricht University Medical Center,OTHER,7,3,0,0,48.714285714285715,42.9,0.0
+FORUM Pharmaceuticals Inc,INDUSTRY,7,3,4,0,48.285714285714285,42.9,57.1
+Hoffmann-La Roche,INDUSTRY,25,10,9,6,63.4,40.0,36.0
+Danish Dementia Research Centre,NETWORK,5,2,0,3,55.4,40.0,0.0
+Zealand University Hospital,OTHER,5,2,0,2,48.4,40.0,0.0
+Istanbul Medipol University Hospital,OTHER,5,2,0,3,46.8,40.0,0.0
+"Rutgers, The State University of New Jersey",OTHER,5,2,0,3,46.4,40.0,0.0
+Fondazione Don Carlo Gnocchi Onlus,OTHER,5,2,0,3,45.0,40.0,0.0
+University of British Columbia,OTHER,5,2,1,1,43.2,40.0,20.0
+Poitiers University Hospital,OTHER,5,2,0,3,42.6,40.0,0.0
+University Medical Center Groningen,OTHER,5,2,0,0,41.0,40.0,0.0
+Istituto Nazionale di Ricovero e Cura per Anziani,OTHER,5,2,1,1,36.0,40.0,20.0
+Pennington Biomedical Research Center,OTHER,5,2,0,3,36.0,40.0,0.0
+University of Utah,OTHER,10,4,3,3,33.2,40.0,30.0
+Abbott,INDUSTRY,5,2,3,0,30.4,40.0,60.0
+Novoic Limited,INDUSTRY,8,3,2,0,37.75,37.5,25.0
+Massachusetts General Hospital,OTHER,32,12,6,11,37.25,37.5,18.8
+Hebrew SeniorLife,OTHER,8,3,0,4,36.125,37.5,0.0
+"University College, London",OTHER,8,3,0,1,30.625,37.5,0.0
+Arizona State University,OTHER,8,3,1,3,29.375,37.5,12.5
+"University Health Network, Toronto",OTHER,11,4,0,3,38.63636363636363,36.4,0.0
+Myrexis Inc.,INDUSTRY,3,1,2,0,68.66666666666667,33.3,66.7
+Baxalta now part of Shire,INDUSTRY,3,1,2,0,59.333333333333336,33.3,66.7
+C2N Diagnostics,INDUSTRY,3,1,1,0,57.666666666666664,33.3,33.3
+Suven Life Sciences Limited,INDUSTRY,3,1,0,1,56.333333333333336,33.3,0.0
+Ludwig-Maximilians - University of Munich,OTHER,9,3,0,4,54.77777777777778,33.3,0.0
+Banner Health,OTHER,9,3,0,5,54.0,33.3,0.0
+Xijing Hospital,OTHER,3,1,0,2,53.333333333333336,33.3,0.0
+University of Milano Bicocca,OTHER,3,1,0,2,52.333333333333336,33.3,0.0
+Bitbrain,INDUSTRY,3,1,0,2,51.0,33.3,0.0
+"University Hospital, Geneva",OTHER,3,1,0,1,49.333333333333336,33.3,0.0
+University of Rostock,OTHER,3,1,0,0,46.333333333333336,33.3,0.0
+York University,OTHER,3,1,0,2,44.0,33.3,0.0
+Kuopio University Hospital,OTHER,3,1,0,2,41.333333333333336,33.3,0.0
+First Affiliated Hospital Xi'an Jiaotong University,OTHER,3,1,0,0,41.0,33.3,0.0
+Zhejiang Provincial Tongde Hospital,OTHER,3,1,0,2,40.0,33.3,0.0
+Neurological Associates of West Los Angeles,OTHER,3,1,1,0,38.666666666666664,33.3,33.3
+University of Zurich,OTHER,3,1,1,1,38.0,33.3,33.3
+University of Aberdeen,OTHER,3,1,1,1,37.666666666666664,33.3,33.3
+"Epix Pharmaceuticals, Inc.",INDUSTRY,3,1,2,0,37.333333333333336,33.3,66.7
+"Hospital San Carlos, Madrid",OTHER,3,1,0,1,37.0,33.3,0.0
+Universidade Federal do Rio de Janeiro,OTHER,3,1,0,1,36.0,33.3,0.0
+Universitair Ziekenhuis Brussel,OTHER,3,1,0,0,35.666666666666664,33.3,0.0
+VTBIO Co. LTD,INDUSTRY,3,1,0,0,35.333333333333336,33.3,0.0
+University of Manitoba,OTHER,3,1,0,1,34.666666666666664,33.3,0.0
+Assaf-Harofeh Medical Center,OTHER_GOV,3,1,0,0,34.333333333333336,33.3,0.0
+"Centre Hospitalier Universitaire, Amiens",OTHER,12,4,3,5,34.25,33.3,25.0
+"The University of Texas Health Science Center, Houston",OTHER,3,1,1,1,33.333333333333336,33.3,33.3
+University Medicine Greifswald,OTHER,3,1,1,1,33.333333333333336,33.3,33.3
+Palo Alto Veterans Institute for Research,OTHER,3,1,1,0,32.666666666666664,33.3,33.3
+Medical University of Lodz,OTHER,3,1,0,1,32.333333333333336,33.3,0.0
+Centre for Addiction and Mental Health,OTHER,9,3,0,6,32.0,33.3,0.0
+LuMind IDSC Foundation,OTHER,3,1,2,0,32.0,33.3,66.7
+Virginia Commonwealth University,OTHER,3,1,1,1,29.666666666666668,33.3,33.3
+Bernard (Barry) Baumel,OTHER,3,1,0,2,26.0,33.3,0.0
+Baycrest,OTHER,3,1,0,2,24.666666666666668,33.3,0.0
+"Taipei Veterans General Hospital, Taiwan",OTHER_GOV,3,1,0,0,22.666666666666668,33.3,0.0
+University Hospitals Cleveland Medical Center,OTHER,3,1,2,0,18.666666666666668,33.3,66.7
+Biogen,INDUSTRY,13,4,8,1,46.69230769230769,30.8,61.5
+"Tammie L. S. Benzinger, MD, PhD",OTHER,10,3,2,5,48.4,30.0,20.0
+Samsung Medical Center,OTHER,10,3,0,0,38.4,30.0,0.0
+Hospices Civils de Lyon,OTHER,20,6,2,5,35.1,30.0,10.0
+Sunnybrook Health Sciences Centre,OTHER,17,5,2,8,41.76470588235294,29.4,11.8
+IRCCS San Raffaele,OTHER,7,2,0,5,49.57142857142857,28.6,0.0
+"St. Joseph's Hospital and Medical Center, Phoenix",OTHER,7,2,1,4,45.714285714285715,28.6,14.3
+National Taiwan University Hospital,OTHER,14,4,0,3,45.57142857142857,28.6,0.0
+"University Hospital, Grenoble",OTHER,7,2,0,2,37.57142857142857,28.6,0.0
+Washington University School of Medicine,OTHER,29,8,2,19,53.51724137931034,27.6,6.9
+Centre Hospitalier Universitaire de Saint Etienne,OTHER,11,3,5,3,25.363636363636363,27.3,45.5
+The Mediterranean Institute for the Advance of Biotechnology and Health Research,OTHER,4,1,0,2,53.25,25.0,0.0
+"Intra-Cellular Therapies, Inc.",INDUSTRY,4,1,1,2,51.0,25.0,25.0
+Takeda,INDUSTRY,4,1,3,0,49.5,25.0,75.0
+Centre Hospitalier St Anne,OTHER,4,1,0,3,47.5,25.0,0.0
+Chinese University of Hong Kong,OTHER,12,3,0,9,47.083333333333336,25.0,0.0
+University of Oxford,OTHER,4,1,1,1,46.25,25.0,25.0
+Fujian Medical University Union Hospital,OTHER,4,1,0,1,44.0,25.0,0.0
+vTv Therapeutics,INDUSTRY,4,1,3,0,42.5,25.0,75.0
+Hong Kong University of Science and Technology,OTHER,4,1,0,3,42.25,25.0,0.0
+AC Immune SA,INDUSTRY,4,1,1,2,39.25,25.0,25.0
+Allyx Therapeutics,INDUSTRY,4,1,0,1,37.75,25.0,0.0
+Hadassah Medical Organization,OTHER,4,1,0,2,34.5,25.0,0.0
+Beersheva Mental Health Center,OTHER_GOV,4,1,1,0,33.75,25.0,25.0
+German Center for Neurodegenerative Diseases (DZNE),OTHER,4,1,1,0,33.25,25.0,25.0
+Medical College of Wisconsin,OTHER,4,1,3,0,27.75,25.0,75.0
+Shanghai Mental Health Center,OTHER,9,2,0,1,60.888888888888886,22.2,0.0
+Capital Medical University,OTHER,9,2,1,6,48.0,22.2,11.1
+Universitaire Ziekenhuizen KU Leuven,OTHER,9,2,0,3,44.55555555555556,22.2,0.0
+Nantes University Hospital,OTHER,9,2,5,1,29.444444444444443,22.2,55.6
+Weill Medical College of Cornell University,OTHER,14,3,4,7,33.57142857142857,21.4,28.6
+"Central Hospital, Nancy, France",OTHER,19,4,1,7,42.578947368421055,21.1,5.3
+Skane University Hospital,OTHER,5,1,0,4,62.4,20.0,0.0
+"Eidos Therapeutics, a BridgeBio company",INDUSTRY,5,1,2,2,55.2,20.0,40.0
+China Medical University Hospital,OTHER,5,1,0,2,52.2,20.0,0.0
+London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's,OTHER,5,1,1,3,43.0,20.0,20.0
+Vanderbilt University Medical Center,OTHER,10,2,2,6,40.0,20.0,20.0
+"University of Alabama, Tuscaloosa",OTHER,5,1,0,3,39.6,20.0,0.0
+The Methodist Hospital Research Institute,OTHER,5,1,0,2,35.4,20.0,0.0
+Imperial College London,OTHER,11,2,1,6,50.18181818181818,18.2,9.1
+Assistance Publique Hopitaux De Marseille,OTHER,6,1,0,1,48.5,16.7,0.0
+Luye Pharma Group Ltd.,INDUSTRY,6,1,0,4,34.5,16.7,0.0
+Boston University,OTHER,6,1,3,2,29.333333333333332,16.7,50.0
+"University Hospital, Montpellier",OTHER,13,2,5,5,43.23076923076923,15.4,38.5
+"University Hospital, Strasbourg, France",OTHER,8,1,1,2,43.625,12.5,12.5
+"University Hospital, Caen",OTHER,9,1,0,3,46.44444444444444,11.1,0.0
+"Xuanwu Hospital, Beijing",OTHER,23,1,0,16,40.52173913043478,4.3,0.0
+"Karuna Therapeutics, Inc., a Bristol Myers Squibb company",INDUSTRY,4,0,0,4,78.25,0.0,0.0
+"Green Valley (Shanghai) Pharmaceuticals Co., Ltd.",INDUSTRY,4,0,1,3,78.0,0.0,25.0
+Bellus Health Inc. - a GSK company,INDUSTRY,3,0,0,0,73.33333333333333,0.0,0.0
+Zhejiang Provincial People's Hospital,OTHER,3,0,0,2,66.33333333333333,0.0,0.0
+Beijing Tiantan Hospital,OTHER,5,0,0,4,62.2,0.0,0.0
+Neuromed IRCCS,OTHER,4,0,0,4,60.25,0.0,0.0
+Navidea Biopharmaceuticals,INDUSTRY,3,0,1,0,58.333333333333336,0.0,33.3
+Huashan Hospital,OTHER,3,0,0,1,57.333333333333336,0.0,0.0
+First Hospital of China Medical University,OTHER,3,0,0,3,56.0,0.0,0.0
+"Regeneration Biomedical, Inc.",INDUSTRY,3,0,0,3,55.333333333333336,0.0,0.0
+Peking Union Medical College Hospital,OTHER,5,0,0,1,54.2,0.0,0.0
+"Second Affiliated Hospital, School of Medicine, Zhejiang University",OTHER,6,0,0,5,54.0,0.0,0.0
+RenJi Hospital,OTHER,3,0,0,2,53.666666666666664,0.0,0.0
+Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau,OTHER,6,0,0,5,52.833333333333336,0.0,0.0
+Tianjin Medical University,OTHER,4,0,0,4,52.25,0.0,0.0
+Ruijin Hospital,OTHER,10,0,0,9,51.1,0.0,0.0
+Peking University First Hospital,OTHER,4,0,0,3,50.5,0.0,0.0
+First Affiliated Hospital of Zhejiang University,OTHER,5,0,0,3,50.2,0.0,0.0
+Metabolic Therapy Inc.,OTHER,3,0,0,0,49.666666666666664,0.0,0.0
+"Cognito Therapeutics, Inc.",INDUSTRY,4,0,0,3,49.0,0.0,0.0
+Guang'anmen Hospital of China Academy of Chinese Medical Sciences,OTHER,3,0,0,2,48.666666666666664,0.0,0.0
+Chinese PLA General Hospital,OTHER,4,0,0,2,47.5,0.0,0.0
+University of Virginia,OTHER,5,0,0,3,46.6,0.0,0.0
+MD Stem Cells,INDUSTRY,3,0,0,2,46.0,0.0,0.0
+Anhui Provincial Hospital,OTHER_GOV,4,0,0,1,44.75,0.0,0.0
+Norwegian University of Science and Technology,OTHER,3,0,0,3,43.333333333333336,0.0,0.0
+Oslo University Hospital,OTHER,6,0,0,2,42.5,0.0,0.0
+Turku University Hospital,OTHER_GOV,3,0,0,0,39.666666666666664,0.0,0.0
+Fondazione Policlinico Universitario Agostino Gemelli IRCCS,OTHER,6,0,0,6,39.5,0.0,0.0
+Aristotle University Of Thessaloniki,OTHER,4,0,0,2,39.25,0.0,0.0
+University of Calgary,OTHER,3,0,0,2,39.0,0.0,0.0
+Massachusetts Institute of Technology,OTHER,5,0,0,5,37.6,0.0,0.0
+The University of Hong Kong,OTHER,3,0,1,1,35.0,0.0,33.3
+"NKGen Biotech, Inc.",INDUSTRY,3,0,1,2,32.0,0.0,33.3
+Sheba Medical Center,OTHER_GOV,3,0,0,0,30.666666666666668,0.0,0.0
+Ali Rezai,OTHER,3,0,1,2,29.0,0.0,33.3
+"Samus Therapeutics, Inc.",INDUSTRY,3,0,3,0,29.0,0.0,100.0
+"University Hospital, Basel, Switzerland",OTHER,3,0,1,1,28.666666666666668,0.0,33.3
+University of Arizona,OTHER,6,0,1,3,26.833333333333332,0.0,16.7
+Centre Hospitalier Universitaire de Besancon,OTHER,4,0,1,0,21.5,0.0,25.0

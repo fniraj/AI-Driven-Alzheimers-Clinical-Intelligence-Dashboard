@@ -1,0 +1,23 @@
+
+Clinical Decision Panel
+
+Why Alzheimer’s is serious:
+Alzheimer’s disease creates progressive cognitive decline, functional dependency, caregiver burden, and long-term health system pressure.
+
+Why trials fail:
+The disease has multiple interacting mechanisms, long progression, late diagnosis, weak translation from animal models, and difficulty proving meaningful cognitive benefit.
+
+Highest pathway failure signal in this dataset:
+Lifestyle / Digital
+
+Most promising repeated intervention signal:
+donepezil
+
+Clinician action:
+Screen memory complaints early, review medications, manage vascular/metabolic risk, support caregivers, refer to memory clinics, and identify eligible patients for clinical trials.
+
+Research action:
+Focus on earlier disease stages, biomarker-positive populations, combination therapies, better cognitive endpoints, longer follow-up, and diverse populations.
+
+AI/data analytics action:
+Use analytics for trial matching, patient stratification, recruitment feasibility, site selection, biomarker intelligence, safety monitoring, outcome prediction, and repurposing prioritization.
